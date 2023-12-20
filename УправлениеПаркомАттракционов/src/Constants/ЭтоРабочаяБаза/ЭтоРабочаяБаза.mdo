@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6ec66347-eb29-4698-81a5-4836c8548628">
+  <producedTypes>
+    <managerType typeId="545a83e2-36ea-40cb-b5d4-23b2154ca060" valueTypeId="aab71f94-6c44-4134-87e8-b576a17d84ec"/>
+    <valueManagerType typeId="894fac63-9f8e-4526-9fc1-e8898ee2ab88" valueTypeId="5b360391-f3d3-4995-ace9-357ab2a629ca"/>
+    <valueKeyType typeId="042f7aad-aac8-4b8d-ac48-934f3cd86bff" valueTypeId="f42c060b-5152-4c27-ab07-477d46d1751a"/>
+  </producedTypes>
+  <name>ЭтоРабочаяБаза</name>
+  <synonym>
+    <key>ru</key>
+    <value>Это рабочая база</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
