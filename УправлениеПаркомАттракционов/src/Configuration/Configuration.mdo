@@ -47,6 +47,8 @@
   <roles>Role.Кассир</roles>
   <roles>Role.ОператорАттракциона</roles>
   <roles>Role.ПолныеПрава</roles>
+  <constants>Constant.Тест2</constants>
+  <constants>Constant.Тест3</constants>
   <constants>Constant.ЭтоРабочаяБаза</constants>
   <catalogs>Catalog.Аттракционы</catalogs>
   <catalogs>Catalog.ВидыАттракционов</catalogs>

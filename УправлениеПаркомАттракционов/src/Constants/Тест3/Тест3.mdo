@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ff353fc0-153c-4621-97ff-2ad89407513e">
+  <producedTypes>
+    <managerType typeId="9076a19a-6cff-4921-a4e8-41ff5a513f4d" valueTypeId="2df720fb-ea4f-4347-b481-ca4ec6e66aa7"/>
+    <valueManagerType typeId="108d9ae8-e3e6-449e-baf3-2bcbe24ca21a" valueTypeId="6f5a8fd5-0502-4b89-b2d0-c19ccabd22c8"/>
+    <valueKeyType typeId="27b6d583-9c04-4e78-8346-4556013206fa" valueTypeId="ddfb4d9c-537b-41b7-8f76-a64138c1683d"/>
+  </producedTypes>
+  <name>Тест3</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тест3</value>
+  </synonym>
+  <type>
+    <types>String</types>
+    <stringQualifiers>
+      <length>10</length>
+    </stringQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
