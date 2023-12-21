@@ -211,6 +211,7 @@
     <horizontalAlign>Left</horizontalAlign>
     <autoFill>true</autoFill>
   </autoCommandBar>
+  <saveWindowSettings>true</saveWindowSettings>
   <autoTitle>true</autoTitle>
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
@@ -241,9 +242,6 @@
     <navigationPanel>
       <cmiFragmentRecord>
         <command>AccumulationRegister.АктивныеПосещения.StandardCommand.OpenByRecorder</command>
-        <commandParameter xsi:type="form:DataPath">
-          <segments>Объект.Ref</segments>
-        </commandParameter>
         <userVisible>
           <common>true</common>
         </userVisible>

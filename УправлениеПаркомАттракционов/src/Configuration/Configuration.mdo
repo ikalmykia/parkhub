@@ -35,7 +35,7 @@
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
   <modalityUseMode>DontUse</modalityUseMode>
   <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
-  <compatibilityMode>8.3.22</compatibilityMode>
+  <compatibilityMode>8.3.23</compatibilityMode>
   <languages uuid="3c56c2b8-d2e8-436b-a891-427c1778abc0">
     <name>Русский</name>
     <synonym>
@@ -50,6 +50,7 @@
   <constants>Constant.Тест2</constants>
   <constants>Constant.Тест3</constants>
   <constants>Constant.ЭтоРабочаяБаза</constants>
+  <constants>Constant.Тест4</constants>
   <catalogs>Catalog.Аттракционы</catalogs>
   <catalogs>Catalog.ВидыАттракционов</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>

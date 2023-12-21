@@ -3,6 +3,6 @@
   <top xsi:type="cai:CaiPanel" id="bb5f6b26-a634-4d63-ade1-f174db0a2fcc" name="SectionPanel" displayType="PictureAndText"/>
   <top xsi:type="cai:CaiPanel" id="d2786e20-8673-4002-9c75-02d7f57563a6" name="FunctionsPanel"/>
   <top xsi:type="cai:CaiPanel" id="1a0b9385-5871-438a-8cd9-f8964145da2e" name="OpenedPanel"/>
-  <unset id="106b49ea-9505-48f0-af60-8f47aa261eb1" name="FavoritePanel"/>
-  <unset id="ce4cd54b-fb3b-462e-a111-d8fd373c8b4e" name="HistoryPanel"/>
+  <unset id="13322b22-3960-4d68-93a6-fe2dd7f28ca3" name="FavoritePanel"/>
+  <unset id="c933ac92-92cd-459d-81cc-e0c8a83ced99" name="HistoryPanel"/>
 </cai:ClientApplicationInterface>

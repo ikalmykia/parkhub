@@ -11,13 +11,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Document.ПосещениеАттракциона</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Document.ПродажаБилета</name>
 		<right>
 			<name>InteractiveDelete</name>
@@ -48,7 +41,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ВидыАттракционов</name>
+		<name>Catalog.Номенклатура</name>
 		<right>
 			<name>InteractiveDelete</name>
 			<value>false</value>
@@ -58,7 +51,7 @@
 			<value>false</value>
 		</right>
 		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
+			<name>InteractiveSetDeletionMarkPredefinedData</name>
 			<value>false</value>
 		</right>
 		<right>
@@ -66,12 +59,19 @@
 			<value>false</value>
 		</right>
 		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
+			<name>InteractiveDeleteMarkedPredefinedData</name>
 			<value>false</value>
 		</right>
 	</object>
 	<object>
-		<name>Catalog.Номенклатура</name>
+		<name>Document.ПосещениеАттракциона</name>
+		<right>
+			<name>InteractiveDelete</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>Catalog.ВидыАттракционов</name>
 		<right>
 			<name>InteractiveDelete</name>
 			<value>false</value>
