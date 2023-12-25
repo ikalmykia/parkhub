@@ -51,6 +51,8 @@
   <constants>Constant.МаксимальнаяДоляОплатыБаллами</constants>
   <constants>Constant.Тест</constants>
   <constants>Constant.Тест1416</constants>
+  <constants>Constant.Тест1417</constants>
+  <constants>Constant.Тест1418</constants>
   <catalogs>Catalog.Аттракционы</catalogs>
   <catalogs>Catalog.ВидыАттракционов</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
