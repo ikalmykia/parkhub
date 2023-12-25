@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suppress:SuppressGenericObject xmlns:suppress="http://g5.1c.ru/v8/dt/check/suppress/model" fqn="Role.ПолныеПрава.Rights">
+  <suppressions key="com.e1c.v8codestyle.right:right-update-database-configuration" value="true"/>
+  <suppressions key="com.e1c.v8codestyle.right:right-interactive-open-external-data-processors" value="true"/>
+  <suppressions key="com.e1c.v8codestyle.right:right-interactive-open-external-reports" value="true"/>
+  <suppressions key="com.e1c.v8codestyle.right:right-start-external-connection" value="true"/>
+  <suppressions key="com.e1c.v8codestyle.right:right-start-thick-client" value="true"/>
+  <suppressions key="com.e1c.v8codestyle.right:right-start-automation" value="true"/>
+  <suppressions key="com.e1c.v8codestyle.right:right-administration" value="true"/>
+  <suppressions key="com.e1c.v8codestyle.right:right-configuration-extensions-administration" value="true"/>
+</suppress:SuppressGenericObject>
