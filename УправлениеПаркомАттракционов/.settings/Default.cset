@@ -3,6 +3,9 @@
   "settings": {
     "module-region-empty": {
       "enabled": false
+    },
+    "md-object-attribute-comment-not-exist": {
+      "enabled": false
     }
   }
 }
