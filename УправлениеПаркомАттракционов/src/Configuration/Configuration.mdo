@@ -52,7 +52,6 @@
   <roles>Role.АдминистраторСистемы</roles>
   <commonModules>CommonModule.НомераТелефоновКлиентСервер</commonModules>
   <constants>Constant.МаксимальнаяДоляОплатыБаллами</constants>
-  <constants>Constant.Тест1549</constants>
   <catalogs>Catalog.Аттракционы</catalogs>
   <catalogs>Catalog.ВидыАттракционов</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
