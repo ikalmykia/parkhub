@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1c6da95c-10c8-42e1-8dd1-c642f9ae3e80">
+  <producedTypes>
+    <managerType typeId="fdd630df-0e2e-4164-a99f-8b277860bc08" valueTypeId="83fd2532-80dd-4b6d-8d38-166c388f9b38"/>
+    <valueManagerType typeId="38025c7a-2f9e-4824-8d75-6b9f1d7971b7" valueTypeId="3b17faf2-cbc9-4a0a-841a-dd4625d7e97c"/>
+    <valueKeyType typeId="35c51cfe-6fc6-4f9d-abb3-c78d5cc1e178" valueTypeId="77349231-c7fd-41d4-84b9-411dcb99783f"/>
+  </producedTypes>
+  <name>Тест0012</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тест0012</value>
+  </synonym>
+  <type>
+    <types>String</types>
+    <stringQualifiers>
+      <length>10</length>
+    </stringQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
