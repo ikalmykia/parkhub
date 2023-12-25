@@ -44,7 +44,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <subsystems>Subsystem.Подсистема1</subsystems>
   <commonPictures>CommonPicture.КоллекцияКрестиков</commonPictures>
   <roles>Role.Кассир</roles>
   <roles>Role.ОператорАттракциона</roles>
