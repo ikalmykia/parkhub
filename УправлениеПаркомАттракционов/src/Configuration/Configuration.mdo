@@ -47,26 +47,25 @@
   <roles>Role.Кассир</roles>
   <roles>Role.ОператорАттракциона</roles>
   <roles>Role.ПолныеПрава</roles>
+<<<<<<< master
   <commonModules>CommonModule.НомераТелефоновКлиентСервер</commonModules>
   <constants>Constant.МаксимальнаяДоляОплатыБаллами</constants>
   <constants>Constant.Тест</constants>
   <constants>Constant.Тест1416</constants>
   <constants>Constant.Тест1417</constants>
   <constants>Constant.Тест1418</constants>
+=======
+>>>>>>> 1344d1b Тест РекдаторФорм База
   <catalogs>Catalog.Аттракционы</catalogs>
   <catalogs>Catalog.ВидыАттракционов</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
-  <catalogs>Catalog.Клиенты</catalogs>
   <documents>Document.ПосещениеАттракциона</documents>
   <documents>Document.ПродажаБилета</documents>
   <documents>Document.УстановкаЦенНоменклатуры</documents>
-  <documents>Document.ШкалаБонуснойПрограммы</documents>
   <enums>Enum.ВидНоменклатуры</enums>
   <reports>Report.ПродажиПоАттракционам</reports>
   <reports>Report.СтатистикаПосещений</reports>
   <informationRegisters>InformationRegister.ЦеныНоменаклатуры</informationRegisters>
-  <informationRegisters>InformationRegister.АктуальнаяШкалаБонуснойПрограммы</informationRegisters>
   <accumulationRegisters>AccumulationRegister.АктивныеПосещения</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.Продажи</accumulationRegisters>
-  <accumulationRegisters>AccumulationRegister.БонусныеБаллыКлиентов</accumulationRegisters>
 </mdclass:Configuration>
