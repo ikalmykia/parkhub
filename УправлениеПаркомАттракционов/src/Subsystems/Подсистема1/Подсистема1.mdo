@@ -14,10 +14,6 @@
   <content>Report.ПродажиПоАттракционам</content>
   <content>Report.СтатистикаПосещений</content>
   <content>Constant.МаксимальнаяДоляОплатыБаллами</content>
-  <content>DataProcessor.ГрупповоеИзменениеРеквизитов</content>
-  <content>DataProcessor.ЖурналРегистрации</content>
-  <content>DataProcessor.ПоискИУдалениеДублей</content>
-  <content>DataProcessor.УдалениеПомеченныхОбъектов</content>
   <content>InformationRegister.ЦеныНоменаклатуры</content>
   <content>InformationRegister.АктуальнаяШкалаБонуснойПрограммы</content>
   <content>AccumulationRegister.АктивныеПосещения</content>

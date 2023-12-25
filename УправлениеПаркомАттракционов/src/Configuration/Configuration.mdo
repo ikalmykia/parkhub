@@ -51,13 +51,6 @@
   <roles>Role.ПолныеПрава</roles>
   <roles>Role.АдминистраторСистемы</roles>
   <commonModules>CommonModule.НомераТелефоновКлиентСервер</commonModules>
-  <commonModules>CommonModule.ПодключаемыеКоманды</commonModules>
-  <commonModules>CommonModule.ПодключаемыеКомандыВызовСервера</commonModules>
-  <commonModules>CommonModule.ПодключаемыеКомандыКлиент</commonModules>
-  <commonModules>CommonModule.ПодключаемыеКомандыКлиентПовтИсп</commonModules>
-  <commonModules>CommonModule.ПодключаемыеКомандыКлиентСервер</commonModules>
-  <commonModules>CommonModule.ПодключаемыеКомандыПереопределяемый</commonModules>
-  <commonModules>CommonModule.ПодключаемыеКомандыПовтИсп</commonModules>
   <constants>Constant.МаксимальнаяДоляОплатыБаллами</constants>
   <constants>Constant.Тест</constants>
   <constants>Constant.Тест1416</constants>
@@ -74,10 +67,6 @@
   <enums>Enum.ВидНоменклатуры</enums>
   <reports>Report.ПродажиПоАттракционам</reports>
   <reports>Report.СтатистикаПосещений</reports>
-  <dataProcessors>DataProcessor.ГрупповоеИзменениеРеквизитов</dataProcessors>
-  <dataProcessors>DataProcessor.ЖурналРегистрации</dataProcessors>
-  <dataProcessors>DataProcessor.ПоискИУдалениеДублей</dataProcessors>
-  <dataProcessors>DataProcessor.УдалениеПомеченныхОбъектов</dataProcessors>
   <informationRegisters>InformationRegister.ЦеныНоменаклатуры</informationRegisters>
   <informationRegisters>InformationRegister.АктуальнаяШкалаБонуснойПрограммы</informationRegisters>
   <accumulationRegisters>AccumulationRegister.АктивныеПосещения</accumulationRegisters>
