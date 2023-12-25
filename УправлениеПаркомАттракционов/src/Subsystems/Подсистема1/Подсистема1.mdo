@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="39bf786c-2333-4d97-8f25-303379a0c741">
+  <name>Подсистема1</name>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Document.ПосещениеАттракциона</content>
+  <content>Document.ПродажаБилета</content>
+  <content>Document.УстановкаЦенНоменклатуры</content>
+  <content>Document.ШкалаБонуснойПрограммы</content>
+  <content>Catalog.Аттракционы</content>
+  <content>Catalog.ВидыАттракционов</content>
+  <content>Catalog.Номенклатура</content>
+  <content>Catalog.Клиенты</content>
+  <content>Report.ПродажиПоАттракционам</content>
+  <content>Report.СтатистикаПосещений</content>
+  <content>Constant.МаксимальнаяДоляОплатыБаллами</content>
+  <content>DataProcessor.ГрупповоеИзменениеРеквизитов</content>
+  <content>DataProcessor.ЖурналРегистрации</content>
+  <content>DataProcessor.ПоискИУдалениеДублей</content>
+  <content>DataProcessor.УдалениеПомеченныхОбъектов</content>
+  <content>InformationRegister.ЦеныНоменаклатуры</content>
+  <content>InformationRegister.АктуальнаяШкалаБонуснойПрограммы</content>
+  <content>AccumulationRegister.АктивныеПосещения</content>
+  <content>AccumulationRegister.Продажи</content>
+  <content>AccumulationRegister.БонусныеБаллыКлиентов</content>
+</mdclass:Subsystem>

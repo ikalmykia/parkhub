@@ -35,6 +35,7 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
+  <defaultListForm>Catalog.Клиенты.Form.ФормаСписка</defaultListForm>
   <attributes uuid="a0a60451-c733-4335-9619-ac45448ae1f9">
     <name>Телефон</name>
     <synonym>
@@ -55,4 +56,13 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <forms uuid="aa705ff3-eb95-4894-b3f2-12084bf58347">
+    <name>ФормаСписка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма списка</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
 </mdclass:Catalog>
