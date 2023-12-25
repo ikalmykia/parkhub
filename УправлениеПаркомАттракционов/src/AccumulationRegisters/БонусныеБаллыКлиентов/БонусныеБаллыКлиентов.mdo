@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:AccumulationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fbe95419-fa24-43cc-bf9a-1112b00266d7">
+  <producedTypes>
+    <selectionType typeId="4792e322-1100-4c09-a6bb-efe5f8dc9a63" valueTypeId="3384f8cd-64a2-495e-b142-aadd490e1a86"/>
+    <listType typeId="782dad4f-da8c-4c6a-9a93-ad534fff32b0" valueTypeId="7d6faa7a-6356-49ed-adb2-7925c9b519df"/>
+    <managerType typeId="09725699-6c98-4a37-a928-17d12e88fc20" valueTypeId="6fedeb4a-dddd-49e4-8887-397219d4d206"/>
+    <recordSetType typeId="b2c1d900-f135-411c-8bf4-b9b3c58410b5" valueTypeId="deacc75d-2c28-4d1e-ae76-491ac25385d1"/>
+    <recordKeyType typeId="f6479245-d82c-4957-afb4-0240bceb7455" valueTypeId="3f7a5854-e043-4844-8e45-dec531ef422e"/>
+    <recordType typeId="61dcf6e5-9af2-43c0-a9dd-cd9e42a2b592" valueTypeId="c4a586f6-d6e7-42d6-b880-8972dd9a83f9"/>
+  </producedTypes>
+  <name>БонусныеБаллыКлиентов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Бонусные баллы клиентов</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <enableTotalsSplitting>true</enableTotalsSplitting>
+  <dimensions uuid="889fb1cd-a615-4bc1-922d-8a7d99aed2a3">
+    <name>Клиент</name>
+    <synonym>
+      <key>ru</key>
+      <value>Клиент</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Клиенты</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <useInTotals>true</useInTotals>
+  </dimensions>
+</mdclass:AccumulationRegister>
