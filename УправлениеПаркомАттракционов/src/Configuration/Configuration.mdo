@@ -51,13 +51,12 @@
   <roles>Role.АдминистраторСистемы</roles>
   <commonModules>CommonModule.НомераТелефоновКлиентСервер</commonModules>
   <constants>Constant.МаксимальнаяДоляОплатыБаллами</constants>
-  <constants>Constant.Тест0012</constants>
-  <constants>Constant.Тест0341</constants>
   <catalogs>Catalog.Аттракционы</catalogs>
   <catalogs>Catalog.ВидыАттракционов</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Клиенты</catalogs>
   <catalogs>Catalog.new_spr</catalogs>
+  <catalogs>Catalog.new_spr2</catalogs>
   <documents>Document.ПосещениеАттракциона</documents>
   <documents>Document.ПродажаБилета</documents>
   <documents>Document.УстановкаЦенНоменклатуры</documents>
