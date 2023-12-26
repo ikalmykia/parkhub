@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3fb6a742-2045-451c-b186-5bcc96c77643">
+  <producedTypes>
+    <objectType typeId="90a7d910-706f-4057-9bd6-4f4840423706" valueTypeId="d0ae8bbf-728c-4055-996a-d4f44fb00d6c"/>
+    <refType typeId="f8a80b02-54f7-4071-8097-6886fdc8374d" valueTypeId="573bb56c-6847-45da-9645-9c2cea6b92d0"/>
+    <selectionType typeId="3fd6d09a-d64e-444f-8ef0-2cc919bab5a5" valueTypeId="3a933a13-1fee-4e39-86a7-ee71a551da58"/>
+    <listType typeId="3b73723b-dd95-4222-b35d-d53e7945985a" valueTypeId="89c98e73-b582-4092-b215-04cbc43c3291"/>
+    <managerType typeId="dd3fe41a-e8f8-4bfa-a207-43c03d505656" valueTypeId="4f6eb2c3-156c-4123-a758-4007a3dc3835"/>
+  </producedTypes>
+  <name>spr6</name>
+  <synonym>
+    <key>ru</key>
+    <value>Spr6</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.spr6.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.spr6.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
