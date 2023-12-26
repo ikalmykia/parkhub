@@ -60,6 +60,7 @@
   <catalogs>Catalog.spr3</catalogs>
   <catalogs>Catalog.spr6</catalogs>
   <catalogs>Catalog.spr7</catalogs>
+  <catalogs>Catalog.spr8</catalogs>
   <documents>Document.ПосещениеАттракциона</documents>
   <documents>Document.ПродажаБилета</documents>
   <documents>Document.УстановкаЦенНоменклатуры</documents>

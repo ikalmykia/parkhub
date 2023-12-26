@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f672f922-7b75-4f79-b7af-211e979c1368">
+  <producedTypes>
+    <objectType typeId="56901648-32a5-4040-b591-e236a66035ca" valueTypeId="285324cc-388a-4a9e-a259-a42eb2c6fcba"/>
+    <refType typeId="8a076f37-18dd-4621-82d4-55107d73d59c" valueTypeId="e253fbb3-9931-4326-be43-3f3b46d4b249"/>
+    <selectionType typeId="62c327ad-312f-4955-b515-3b95a1a079e4" valueTypeId="1f20608d-c2c6-45df-bef2-372ce1d554f4"/>
+    <listType typeId="854fe22c-8b89-43f3-9c6f-952afcddca40" valueTypeId="f8b8a2ad-d698-4a71-9f0d-9871712dbd14"/>
+    <managerType typeId="4f01ce50-4e74-4d31-b972-2a452fccbc64" valueTypeId="cf90d384-844b-4aac-a9a1-ce09825c7c09"/>
+  </producedTypes>
+  <name>spr8</name>
+  <synonym>
+    <key>ru</key>
+    <value>Spr8</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.spr8.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.spr8.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
