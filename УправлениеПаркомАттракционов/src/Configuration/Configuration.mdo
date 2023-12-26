@@ -56,6 +56,7 @@
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Клиенты</catalogs>
   <catalogs>Catalog.spr4</catalogs>
+  <catalogs>Catalog.spr5</catalogs>
   <documents>Document.ПосещениеАттракциона</documents>
   <documents>Document.ПродажаБилета</documents>
   <documents>Document.УстановкаЦенНоменклатуры</documents>
