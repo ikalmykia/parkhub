@@ -1,11 +1,4 @@
 {
   "version": 1,
-  "settings": {
-    "module-region-empty": {
-      "enabled": false
-    },
-    "md-object-attribute-comment-not-exist": {
-      "enabled": false
-    }
-  }
+  "settings": {}
 }
